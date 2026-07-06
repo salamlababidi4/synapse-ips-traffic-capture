@@ -11,3 +11,12 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Generated capture files
+*.csv
+*.json
+
+# Generated capture output
+captured_traffic.csv
+captured_traffic.json
+network_data.json
